@@ -1,0 +1,11 @@
+
+加密(CODE)：在此資料夾中要有圖片"pic.png"，輸出"pic_code.png"
+
+解密(DECODE)：在此資料夾中要有圖片"pic_code.png"，輸出"pic_decode.png"
+
+輸出圖片"pic_decode.png"的右側、下側有黑邊屬正常現象
+
+本加密/解密方法安全性薄弱，不建議用於機密資料加密用途
+
+Tetratio 2021/06/15
+https://twitter.com/tetratio_anime
